@@ -1,0 +1,4 @@
+Pancakes, 2.50 €
+Steak, 7.50 €
+Hamburger, 4.50 €
+Pizza, 6.50 €
